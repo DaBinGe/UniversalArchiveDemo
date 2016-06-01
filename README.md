@@ -128,6 +128,6 @@ which was archived before.And the log its values that is used to compare the val
     return self;
 }
 ```
-Please look at the project files to know other details.
+Please look at the project files to know other details.    
 其它细节请查看工程的文件。
 
